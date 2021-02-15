@@ -1,0 +1,202 @@
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.exe
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.AssemblyInfoInputs.cache
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.AssemblyInfo.cs
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.RazorTargetAssemblyInfo.cache
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\DLWebAPI.StaticWebAssets.Manifest.cache
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\DLWebAPI.StaticWebAssets.xml
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csproj.CopyComplete
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.deps.json
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.runtimeconfig.json
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.runtimeconfig.dev.json
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.pdb
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.pdb
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.genruntimeconfig.cache
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csproj.CoreCompileInputs.cache
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.exe
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.deps.json
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.runtimeconfig.json
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.runtimeconfig.dev.json
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.pdb
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLIT_GETDB_API.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLIT_GETDB_API.pdb
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csprojAssemblyReference.cache
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.AssemblyInfoInputs.cache
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.AssemblyInfo.cs
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csproj.CoreCompileInputs.cache
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.RazorTargetAssemblyInfo.cache
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csproj.CopyComplete
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\DLWebAPI.StaticWebAssets.Manifest.cache
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\DLWebAPI.StaticWebAssets.xml
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.dll
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.pdb
+D:\DEV_PROJECT\WEB_PROJECT\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.genruntimeconfig.cache
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.exe
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.deps.json
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.runtimeconfig.json
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.runtimeconfig.dev.json
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.pdb
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLIT_GETDB_API.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLIT_GETDB_API.pdb
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csprojAssemblyReference.cache
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.AssemblyInfoInputs.cache
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.AssemblyInfo.cs
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csproj.CoreCompileInputs.cache
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.RazorTargetAssemblyInfo.cache
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csproj.CopyComplete
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\DLWebAPI.StaticWebAssets.Manifest.cache
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\DLWebAPI.StaticWebAssets.xml
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.dll
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.pdb
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.genruntimeconfig.cache
+D:\WEB_PROJECT\DLWebAPI (3)\DLWebAPI\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\DLIT_GETDB_API.deps.json
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\DLIT_GETDB_API.deps.json
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLIT_GETDB_API.dll
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\DLIT_GETDB_API.pdb
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csprojAssemblyReference.cache
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\DLIT_GETDB_API.deps.json
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.exe
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.deps.json
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.runtimeconfig.json
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.runtimeconfig.dev.json
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.pdb
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\DLIT_GETDB_API.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\bin\Debug\netcoreapp3.1\DLIT_GETDB_API.pdb
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csprojAssemblyReference.cache
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.AssemblyInfoInputs.cache
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.AssemblyInfo.cs
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csproj.CoreCompileInputs.cache
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.RazorTargetAssemblyInfo.cache
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csproj.CopyComplete
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\DLWebAPI.StaticWebAssets.Manifest.cache
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\DLWebAPI.StaticWebAssets.xml
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.dll
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.pdb
+D:\WEB_PROJECT\DLWebAPI_Test\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.genruntimeconfig.cache
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.AssemblyInfoInputs.cache
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.AssemblyInfo.cs
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csproj.CoreCompileInputs.cache
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\DLIT_GETDB_API.deps.json
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\DLIT_GETDB_API.deps.json
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.exe
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\DLIT_GETDB_API.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\DLIT_GETDB_API.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.deps.json
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.runtimeconfig.json
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.runtimeconfig.dev.json
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\DLWebAPI.pdb
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\bin\Debug\netcoreapp3.1\DLIT_GETDB_API.pdb
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.RazorTargetAssemblyInfo.cache
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csproj.CopyComplete
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\DLWebAPI.StaticWebAssets.Manifest.cache
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\DLWebAPI.StaticWebAssets.xml
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.dll
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.pdb
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.genruntimeconfig.cache
+D:\WEB_PROJECT\Docker-Practice\DLWebAPI\obj\Debug\netcoreapp3.1\DLWebAPI.csprojAssemblyReference.cache
+D:\WEB_PROJECT\DLWebAPI\DLWebAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\DLIT_GETDB_API.dll
