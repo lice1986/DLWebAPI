@@ -50,7 +50,7 @@ EXPOSE 443
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS build
 WORKDIR /src
 COPY ["/DLWebAPI.csproj", "./"]
-COPY ["/DLIT_GETDB_API.*", "./"]
+#COPY ["/DLIT_GETDB_API.*", "./"]
 RUN dotnet restore "./DLWebAPI.csproj"
 RUN ls
 COPY . .
